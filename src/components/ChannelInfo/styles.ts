@@ -16,6 +16,8 @@ export const Container = styled.div`
 export const HashtagIcon = styled(Hashtag)`
   width: 24px;
   height: 24px;
+  
+  stroke-width: 2;
 
   color: var(--symbol);
 `;
