@@ -15,7 +15,7 @@ export const Button = styled.button<Props>`
   border-radius: 50%;
 
   background-color: ${(props) => 
-    (props.isHome ? 'var(--standard)' : 'var(--primary)')};
+    (props.isHome ? 'var(--white)' : 'var(--primary)')};
 
   position: relative;
   cursor: pointer;
