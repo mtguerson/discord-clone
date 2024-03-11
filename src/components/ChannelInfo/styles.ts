@@ -17,7 +17,7 @@ export const HashtagIcon = styled(Hashtag)`
   width: 24px;
   height: 24px;
   
-  stroke-width: 2;
+  stroke-width: 1.5;
 
   color: var(--symbol);
 `;
