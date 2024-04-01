@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.34"
+    "@types/styled-components": "^5.1.34",
+    "webpack-dev-middleware": "7.1.0"
   }
 }
