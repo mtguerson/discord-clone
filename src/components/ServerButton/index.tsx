@@ -22,7 +22,7 @@ const ServerButton: React.FC<Props> = ({
       mentions={mentions}
       className={selected ? 'active' : ''}
     >
-      {isHome && <img src="https://svgshare.com/i/Pb9.svg" alt="Discord" />}
+      {isHome && <img src="https://www.svgrepo.com/show/271225/discord.svg" alt="Discord" />}
     </Button>
   );
 };
